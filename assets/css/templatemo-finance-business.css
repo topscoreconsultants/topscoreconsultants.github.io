@@ -83,6 +83,10 @@ a.border-button:hover {
 	color: #5B333B;
 }
 
+.item-brc h3 {
+	color: #5B333B;
+}
+
 .section-heading span {
 	display: block;
 	margin-top: 15px;
